@@ -1,0 +1,15 @@
+
+*.toc
+*.zip
+*.pkg
+*.pyc
+*.pyz
+build/gui/warn-gui.txt
+*.png
+*.html
+*.json
+*.spec
+dist/.DS_Store
+*.css
+*.js
+*.txt
