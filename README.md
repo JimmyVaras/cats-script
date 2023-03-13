@@ -33,3 +33,9 @@ Malware scan with VirusTotal passed:
 <a href="https://www.virustotal.com/gui/file/54a699b4fa0c67cbca4d43d4bcce64bceb404eda51264938a1abfdbbff76e00f?nocache=1">
     <img src="./img/mac100.png" alt="VirusTotal" width="100">
 </a>
+
+
+## Future features
+- Include all API autentication methods to the GUI.
+- Include more flags possibilities
+- Include all the output options that CATS offers.
