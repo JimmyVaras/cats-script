@@ -5,7 +5,6 @@
 *.pyc
 *.pyz
 build/gui/warn-gui.txt
-*.png
 *.html
 *.json
 *.spec
