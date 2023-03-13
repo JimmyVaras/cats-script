@@ -24,9 +24,12 @@ To run this tool, it need CATS to be previously installed. To learn more about t
 Malware scan with VirusTotal passed:
 
 ### Linux 
+<a href="https://www.virustotal.com/gui/file/2edbfd4cff043f587bce48def1777a8ad3dd94dad5e206747a507c3df83f0c39/detection">
+    <img src="./img/linux100.png" alt="VirusTotal" width="100">
+</a>
 
-[![VirusTotal](https://miro.medium.com/v2/resize:fit:1024/1*rTdIVDtpmxdz9NXi2RedGQ.png)](https://www.virustotal.com/gui/file/2edbfd4cff043f587bce48def1777a8ad3dd94dad5e206747a507c3df83f0c39/detection)
 
 ### MacOS 
-
-[![VirusTotal](https://miro.medium.com/v2/resize:fit:1024/1*rTdIVDtpmxdz9NXi2RedGQ.png)](https://www.virustotal.com/gui/file/54a699b4fa0c67cbca4d43d4bcce64bceb404eda51264938a1abfdbbff76e00f?nocache=1)
+<a href="https://www.virustotal.com/gui/file/54a699b4fa0c67cbca4d43d4bcce64bceb404eda51264938a1abfdbbff76e00f?nocache=1">
+    <img src="./img/mac100.png" alt="VirusTotal" width="100">
+</a>
